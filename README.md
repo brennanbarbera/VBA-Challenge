@@ -7,6 +7,7 @@ In this Project we were tasked with finding the total volume, and the losses/gai
 ### Analysis of time spent running the function
 [Time of running through 2017 trackers](https://raw.githubusercontent.com/brennanbarbera/VBA-Challenge/main/Resources/2017%20screenshot.png)
 With the original function we designed during the module, the code would run for a little more than half a second to process the data on 2017's trackers. With the Refactored code, the same data was presented but only took a portion of the time at approximately 0.08 seconds.
+
 [Time of running through 2018 trackers](https://raw.githubusercontent.com/brennanbarbera/VBA-Challenge/main/Resources/2018%20ScreenShot.png)
 The results from the differences in the original code to the refactored code for the 2018 time period reinforce the case that the refactored code takes only a fraction of the time to process through the data.
 
